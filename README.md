@@ -2,9 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<style>
-h1 {text-align: center;}
-</style>
+<style> h1 {text-align: center;} </style>
 </head>
 <body>
 <h1>Taller IA <br>
