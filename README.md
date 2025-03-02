@@ -74,7 +74,3 @@ Adoptando un punto de vista optimista sobre nuestra sociedad y el desarrollo de 
 Es poco probable que la IA llegue al punto de los juegos, películas o libros distópicos donde la IA genera una conciencia y tiene sentimientos, pero a veces un pensamiento lógico y no emocional es lo que le hace falta a la humanidad, dejar de tomar algunas decisiones mediante los sentimientos y usar un pensamiento netamente lógico. También es por este pensamiento lógico y no emocional que por más que evolucione la IA, no va a literalmente dominar y conquistar la humanidad, la IA no ganaría nada con ganar el control de un planeta, al no presentar ese sentimiento humano de poder y de superioridad, no tienen ninguna necesidad de hacernos daño y de hecho, en el futuro confiaría más en un presidente robótico que uno humano.<br><br>
 
 En conclusión, considero que se le está dando mal uso a la inteligencia artificial, pero, mediante esta avanza, así mismo se ve más brillante el futuro de la humanidad, se va a poder ver menos enfermedad, más seguridad y posiblemente los humanos tendrán más tiempo libre para realizar actividades diferentes a lo laboral. Aun así, hay que tener en cuenta los efectos que están produciendo el uso de inteligencia artificial, como la gran cantidad de polución que genera y mejorar la cultura humana y generar mayor conciencia para poder llegar a este brillante futuro que espera a la humanidad.</p><br>
-
-
-</body>
-</html>
